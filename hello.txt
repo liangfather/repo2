@@ -3,3 +3,7 @@ hqjehjkdhskaldha
 hjhajh
 hcjkahdjkadhahdjadhajkdha
 dhahkdhakdh
+public static void main (String[]arges){
+
+system.out.println("我爱你")
+}
